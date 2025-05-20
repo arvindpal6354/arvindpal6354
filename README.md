@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Arvind Pal
+# 👋 Hi, I'm Arvind Umashankar Pal
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for technology, coding, and creating meaningful digital experiences.
 
