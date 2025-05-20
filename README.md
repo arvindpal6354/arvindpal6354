@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for technol
 - 🌱 I’m currently learning: DevOps, system design, and cloud platforms like AWS
 - 👯 I’m looking to collaborate on: Full-stack projects, APIs, and automation tools
 - 💬 Ask me about: JavaScript, Python, web development, and backend systems
-- 📫 How to reach me: [arvindpal6354@example.com] | [LinkedIn](https://linkedin.com/in/arvind-umashankar-pal)
+- 📫 How to reach me: [arvindpal6354@gmail.com] | [LinkedIn](https://linkedin.com/in/arvind-umashankar-pal)
 - ⚡ **Fun fact:** I enjoy working with cloud technologies and aspire to become a Cloud Engineer!
 
 ## 🛠️ Technologies & Tools
